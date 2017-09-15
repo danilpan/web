@@ -1,0 +1,32 @@
+.box1{
+	border: 2px solid brown;
+	border-radius: 5px 5px 5px 5px;
+	text-align:center;
+	float:left;
+	width:300px;
+	height:50px;
+	background-color:green;
+}
+.box2{
+	border: 2px solid brown;
+	border-radius: 5px 5px 5px 5px;
+	text-align:center;
+	float:center;
+	margin-left:310px;
+	width:300px;
+	height:50px;
+	background-color:green;
+}
+.box3{
+	border: 2px solid brown;
+	border-radius: 5px 5px 5px 5px;
+	text-align:center;
+	width:300px;
+	margin-left:620px;
+	margin-top:-54px;
+	height:50px;
+	background-color:green;
+}
+p{ 
+	color:white;
+}
